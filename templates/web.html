@@ -1,0 +1,10 @@
+<div class="row templates">
+	<div ng-repeat="template in templates">
+		<div class="col-md-3 col-sm-4 col-xs-6 project-container">
+			<h3 class="project-title">{{template.name}}</h3>
+			<img ng-src="img/{{template.images[0].name}}" class="img-full">
+			<h4></h4>
+			<a class="btn btn-primary btn-block" href="#/web/{{template.id}}">Details</a>
+		</div>
+	</div>
+</div>

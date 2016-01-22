@@ -1,0 +1,148 @@
+[
+{
+	"id": 3,
+	"name": "Bumble Bee Style",
+	"image_folder": "Jan19",
+	"description1": "Dressing with style daily can be tiresome with extra time putting on makeup or picking out outfits, but often lends the momentary confidence to overcome our struggles. Today's look is all about being comfortable and professional that comes from your own beautiful self esteem. I'm not a girl who likes to glam up and go to Oscar parties. I am the type of woman who'd much rather spend that time giving a presentation to a group of people with hopes of a greater outcome for all. I am the type of woman who would much rather spend time learning and contributing to innovative technology. However, I have noticed my confidence also dwindles when I put on a pair of jeans and a t-shirt. Yes, it is comfortable, but I do not feel the same strength as when I put on a pant suit. With this in mind, I aim to dress more professionally while keeping a minimal lifestyle.",
+	"description2": "",
+	"description3": "After all, the Queen Bee of a hive needs to stand out as much as her strength keeps the swarm together.",
+	"images": [{
+		"name": "3.jpg"
+	}, {
+		"name": "2.jpg"
+	}, {
+		"name": "1.jpg"
+	}, {
+		"name": "5.jpg"
+	}, {
+		"name": "4.jpg"
+	}, {
+		"name": "6.jpg"
+	}],
+	"looks": [{
+		"name":"https://resources.shopstyle.com/pim/54/a7/54a7cb0a79046421873de2b209dbc73f_best.jpg",
+		"link":"http://api.shopstyle.com/action/apiVisitRetailer?id=488812402&pid=uid4916-32684054-37"
+	}, {
+		"name":"https://resources.shopstyle.com/pim/52/86/5286e31809d373e448afed0bc35b1ff7_best.jpg",
+		"link":"http://api.shopstyle.com/action/apiVisitRetailer?id=483727505&pid=uid4916-32684054-37"
+	}, {
+		"name":"https://resources.shopstyle.com/pim/a5/ef/a5ef57cd657ab73752bb0df4f017505d_best.jpg",
+		"link":"http://api.shopstyle.com/action/apiVisitRetailer?id=504450245&pid=uid4916-32684054-37"
+	}, {
+		"name":"https://resources.shopstyle.com/pim/02/e2/02e2ab0a665c61ecf985b9d1be858924_best.jpg",
+		"link":"http://api.shopstyle.com/action/apiVisitRetailer?id=462428872&pid=uid4916-32684054-37"
+	}, {
+		"name":"https://resources.shopstyle.com/pim/3a/9b/3a9bd250462b0fb1eff96060a6e4ee83_best.jpg",
+		"link":"http://api.shopstyle.com/action/apiVisitRetailer?id=497734423&pid=uid4916-32684054-37"
+	}],
+	"post_date": "January 20, 2016",
+	"post_location": "Santa Monica",
+	"urlName":"Bumble-Bee-Style"
+},
+{
+	"id": 2,
+	"name": "Territorial Prints",
+	"urlName": "Territorial-Prints",
+	"image_folder": "Jan17",
+	"description1": "Saturday morning, begins the mini vacation to Las Vegas. As the sun gets higher in late morning, we stop for Umami brunch down town Los Angeles in the art district where walls are covered with colorful murals. Next door to food, a geometric wall awaits the perfect shoot for a minimalist look. Before chowing down on our burgers, we take advantage of the opportunity then begin our journey to Las Vegas.",
+	"description2": "",
+	"description3": "Of course, we had too much fun and not enough time to shoot looks in Vegas, so I'll let your imaginative minds wonder. ",
+	"images": [{
+		"name": "1.jpg"
+	}, {
+		"name": "2.jpg"
+	}, {
+		"name": "4.jpg"
+	}, {
+		"name": "6.jpg"
+	}, {
+		"name": "5.jpg"
+	}, {
+		"name": "3.jpg"
+	}],
+	"looks": [{
+		"name":"https://resources.shopstyle.com/pim/ab/fa/abfaa209873f2e58d29fe603b9608010_best.jpg",
+		"link":"http://api.shopstyle.com/action/apiVisitRetailer?id=475793170&pid=uid4916-32684054-37"
+	}, {
+		"name":"https://resources.shopstyle.com/pim/de/3f/de3f1ad8392d68e5439e5f066010ca34_best.jpg",
+		"link":"http://api.shopstyle.com/action/apiVisitRetailer?id=506216766&pid=uid4916-32684054-37"
+	}, {
+		"name":"https://resources.shopstyle.com/pim/a3/eb/a3eb2d041977031c76337ad31fccaad9_best.jpg",
+		"link":"http://api.shopstyle.com/action/apiVisitRetailer?id=298078114&pid=uid4916-32684054-37"
+	}, {
+		"name":"https://resources.shopstyle.com/pim/da/9c/da9c8797205b810b6b610de45d85c9ab_best.jpg",
+		"link":"http://api.shopstyle.com/action/apiVisitRetailer?id=476773686&pid=uid4916-32684054-37"
+	}, {
+		"name":"https://resources.shopstyle.com/pim/b6/c8/b6c8a0c6cc387d1195e934d0fa673263_best.jpg",
+		"link":"http://api.shopstyle.com/action/apiVisitRetailer?id=488570987&pid=uid4916-32684054-37"
+	}],
+	"post_date": "January 17, 2016",
+	"post_location": "Downtown LA"
+},
+{
+	"id": 1,
+	"name": "New Year | New Beginnings",
+	"urlName": "New-Year-|-New-Beginnings",
+	"image_folder": "Jan15",
+	"description1": "2016 starts off with boastful celebrations and inspiring New Year resolutions. Welcoming this year brings me joy as I forgive 2015 for all the troubles (insightful) experiences. Launching this blog at the beginning of this year is symbolic of what 2015 has taught me and to stay strong despite the crap life sometimes throws at you. With that said, I couldn't be more happier to come back to the glam world of blogging. Since this post is truly symbolic of new beginnings, I've changed a few of my resolutions into vows. Whenever a day gets bad, I promise myself and to my readers to follow these vows like a newly blissful married couple.",
+	"description2": [{
+		"name": "1. I vow to stay true to what I believe despite information thrown at me."
+		}, {
+		"name": "2. I vow to love who I am and every part of my personality, ditching those not in favor."
+		}, {
+		"name": "3. I vow to not succumb to the opinions of others."
+		}, {
+		"name": "4. I vow to accept and demand equal employment compensation as my male co - workers regardless of title so long as I am doing the same work as them. Thank you, FAIR PAY ACT!"
+		}, {
+		"name": "5. I vow to always speak up when treated poorly."
+		}, {
+		"name": "6. I vow to not accept criticism for work while good work goes unnoticed."
+		}, {
+		"name": "7. I vow to go above and beyond what is expected of me, especially when it comes to my work."
+		}, {
+		"name": "8. I vow to come home every night, listing 5 good things that happened during my day(and saving them in a jar for when it rains)."
+		}, {
+		"name": "9. I vow to treat others with kindness and respect they deserve.If they don 't deserve any, then they better run."
+		}, {
+		"name": "10. I vow to ALWAYS be good enough in life, relationships, and skills."
+		}, {
+		"name": "11. I vow to forgive those who gave me crap in 2015 and move on knowing I am in a much better place. I'll let Karma do her job."
+	}],
+	"description3": "Anyone who disagrees with the above statements can go F off as a service to mankind. Cheers to the start of a New Year!",
+	"images": [{
+		"name": "7.jpg"
+	}, {
+		"name": "6.jpg"
+	}, {
+		"name": "8.jpg"
+	}, {
+		"name": "3.jpg"
+	}, {
+		"name": "1.jpg"
+	}, {
+		"name": "4.jpg"
+	}, {
+		"name": "2.jpg"
+	}, {
+		"name": "5.jpg"
+	}],
+	"looks": [{
+		"name":"https://resources.shopstyle.com/pim/12/17/1217bb0e37c01ae0238af3c9bd4d694c_best.jpg",
+		"link":"http://api.shopstyle.com/action/apiVisitRetailer?id=495615964&pid=uid4916-32684054-37"
+	}, {
+		"name":"https://resources.shopstyle.com/pim/52/86/5286e31809d373e448afed0bc35b1ff7_best.jpg",
+		"link":"http://api.shopstyle.com/action/apiVisitRetailer?id=483727505&pid=uid4916-32684054-37"
+	}, {
+		"name":"https://resources.shopstyle.com/pim/da/9c/da9c8797205b810b6b610de45d85c9ab_best.jpg",
+		"link":"http://api.shopstyle.com/action/apiVisitRetailer?id=476773686&pid=uid4916-32684054-37"
+	}, {
+		"name":"https://resources.shopstyle.com/pim/eb/2d/eb2dccc17ad16822b86b67701c1be15d_best.jpg",
+		"link":"http://api.shopstyle.com/action/apiVisitRetailer?id=501922133&pid=uid4916-32684054-37"
+	}, {
+		"name":"https://resources.shopstyle.com/pim/87/75/877569f13fcaeff9c48d421ae3bb15ee_best.jpg",
+		"link":"http://api.shopstyle.com/action/apiVisitRetailer?id=505663452&pid=uid4916-32684054-37"
+	}],
+	"post_date": "January 15, 2016",
+	"post_location": "Marina Del Rey"
+}
+]

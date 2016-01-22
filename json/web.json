@@ -1,0 +1,238 @@
+[
+	{
+		"id":1,
+		"name": "Sprint's Most Popular Driver",
+		"description1":"In collaboration with Sprint and Nascar, Sprint's Most Popular Driver is a MVC web application campaign which allows fans to vote for their favorite Nascar driver. With fully responsive design, the app can be embedded or iframed in the clients page using PymJs. The app has cross compatibility on all browsers and mobile devices. Users are directed to the landing page to vote, then taken to a google captcha to prevent 'excited fans from smashing votes', then to a login view where the user is required to provide an email or log in via Facebook, and finishes the user flow on the thank you view where they have the option to share their vote via Facebook or Twitter. In conjunction with Telescope Inc. APIs, social media APIs help determine a valid vote from the user. ",
+		"description2":"Frameworks used to build this app include but are not limited to NodeJs, BackboneJs, UnderscoreJs, Bootstrap and Less. Click to enlarge images.",
+		"images": [
+			{
+				"name":"smpd.jpg"
+			},
+			{
+				"name":"smpd1.jpg"
+			},
+			{
+				"name":"smpd2.jpg"
+			},
+			{
+				"name":"smpd3.jpg"
+			},
+			{
+				"name":"smpd4.jpg"
+			},
+			{
+				"name":"smpd5.jpg"
+			},
+			{
+				"name":"smpd6.jpg"
+			},
+			{
+				"name":"smpd7.jpg"
+			}
+		]
+	},
+	{
+		"id":2,
+		"name": "MTV Video Music Awards",
+		"description1":"In collaboration with MTV, MTV Video Music Awards is a MVC web application campaign which allows fans to vote for their favorite artist per category. With fully responsive design, the app can be embedded or iframed in the clients page using PymJs. The app has cross compatibility on all browsers and mobile devices. Users are directed to the landing page to vote, then to a login view where the user is required to provide an email or log in via Facebook, and finishes the user flow on the thank you view where they have the option to share their vote via Facebook or Twitter. In conjunction with Telescope Inc. APIs, social media APIs help determine a valid vote from the user. ",
+		"description2":"Frameworks used to build this app include but are not limited to NodeJs, BackboneJs, UnderscoreJs, Bootstrap and Sass. Click to enlarge images.",
+		"images": [
+			{
+				"name":"vma.jpg"
+			},
+			{
+				"name":"vma1.jpg"
+			},
+			{
+				"name":"vma2.jpg"
+			},
+			{
+				"name":"vma3.jpg"
+			},
+			{
+				"name":"vma4.jpg"
+			}
+		]
+	},
+	{
+		"id":3,
+		"name": "Dancing with the Stars",
+		"description1":"In collaboration with ABC Network, Dancing with the Stars Switch Up is a MVC web application campaign which allows fans to select one celebrity and professional dancer to create their optimal couple. A variation of this app, Dancing with the Stars America's Choice allows the user to select their favorite female, male, and song. With fully responsive design, the app can be embedded or iframed in the clients page. The app has cross compatibility on all browsers and mobile devices. Users are directed to the landing page to select options, then required to log in via twitter to create a valid vote. The user can then tweet their picks via Twitter Intent. In conjunction with Telescope Inc. APIs, social media APIs help determine a valid vote from the user.",
+		"description2":"Frameworks used to build this app include but are not limited to NodeJs, BackboneJs, UnderscoreJs, Bootstrap and Sass. Click to enlarge images.",
+		"images": [
+			{
+				"name":"dwts-copy.jpg"
+			},
+			{
+				"name":"dwts1.jpg"
+			},
+			{
+				"name":"dwts2.jpg"
+			},
+			{
+				"name":"dwts3.jpg"
+			},
+			{
+				"name":"dwts4.jpg"
+			},
+			{
+				"name":"dwts5.jpg"
+			},
+			{
+				"name":"dwts6.jpg"
+			}
+		]
+	},
+	{
+		"id":4,
+		"name": "Share the Profit",
+		"description1":"In collaboration with CNBC Network, Share the Profit is a MVC web application campaign which allows fans to upload related content to social media as fundraising for small businesses. Social content is pulled from Twitter and Facebook using Telescope Inc Social Moderation and Facebook Tailor API. With fully responsive design, the app can be embedded or iframed in the clients page using PymJs. The app has cross compatibility on all browsers and mobile devices. Users are directed to the landing page where all approved content by the network is displayed in a limited grid with a customized counter to show the current fundraising total. In conjunction with Telescope Inc. APIs, social media APIs help determine valid share content from the user. ",
+		"description2":"Frameworks used to build this app include but are not limited to NodeJs, BackboneJs, UnderscoreJs, Bootstrap and Sass. Click to enlarge images.",
+		"images": [
+			{
+				"name":"profit-copy.jpg"
+			},
+			{
+				"name":"profit1.jpg"
+			},
+			{
+				"name":"profit2.jpg"
+			},
+			{
+				"name":"profit3.jpg"
+			},
+			{
+				"name":"profit4.jpg"
+			}
+		]
+	},
+	{
+		"id":5,
+		"name": "Aqua Teen Hunger Force",
+		"description1":"In collaboration with Adult Swim, Aqua Teen Hunger Force BINGO is a MVC web application campaign which allows fans to play a sweepstakes bingo card hoping to win prizes each week. With fully responsive design, the app can be embedded or iframed in the clients page. The app has cross compatibility on all browsers and mobile devices. Users are directed to the landing page to login via Facebook, then to a form view where the user is required to provide their information, then to a BNGO card where they choose their sweepstakes numbers, and finishes the user flow on a Winner or Looser view where they have the option to share their results via Facebook or Twitter. In conjunction with Telescope Inc. APIs, social media APIs help determine a valid vote from the user. ",
+		"description2":"Frameworks used to build this app include but are not limited to NodeJs, BackboneJs, UnderscoreJs, Bootstrap and Sass. Click to enlarge images.",
+		"images": [
+			{
+				"name":"athf.jpg"
+			},
+			{
+				"name":"athf1.jpg"
+			},
+			{
+				"name":"athf2.jpg"
+			},
+			{
+				"name":"athf3.jpg"
+			},
+			{
+				"name":"athf4.jpg"
+			},
+			{
+				"name":"athf5.jpg"
+			}
+		]
+	},
+	{
+		"id":6,
+		"name": "Billboard Music Awards",
+		"description1":"In collaboration with Billboard, Billboard Music Awards is a MVC web application campaign which allows fans to vote for their favorite artist per category. With fully responsive design, the app can be embedded or iframed in the clients page. The app has cross compatibility on all browsers and mobile devices. Users are directed to the landing page to vote, then to a login view where the user is required to provide an email or log in via Facebook, and finishes the user flow on the thank you view where they have the option to share their vote via Facebook or Twitter. This app also uses Twitter Cards as another vote option through Twitter. In conjunction with Telescope Inc. APIs, social media APIs help determine a valid vote from the user. ",
+		"description2":"Frameworks used to build this app include but are not limited to NodeJs, BackboneJs, UnderscoreJs, Bootstrap and Sass. Click to enlarge images.",
+		"images": [
+			{
+				"name":"bbma-copy.jpg"
+			},
+			{
+				"name":"bbma1.jpg"
+			},
+			{
+				"name":"bbma2.jpg"
+			},
+			{
+				"name":"bbma3.jpg"
+			},
+			{
+				"name":"bbma4.jpg"
+			}
+		]
+	},
+	{
+		"id":7,
+		"name": "WWE Who's Tough Enough",
+		"description1":"In collaboration with World Wrestling Entertainment, Who’s Tough Enough is a MVC web application campaign which allows fans to vote for their favorite wrestler from their live show. Results are calculated and delivered during the live eviction episode. With fully responsive design, the app can be embedded or iframed in the clients page. The app has cross compatibility on all browsers and mobile devices. Users are directed to the landing page to vote, then to a login view where the user is required to provide an email or log in via Facebook, and finishes the user flow on the thank you view where they have the option to share their vote via Facebook or Twitter. In conjunction with Telescope Inc. APIs, social media APIs help determine a valid vote from the user. ",
+		"description2":"Frameworks used to build this app include but are not limited to NodeJs, BackboneJs, UnderscoreJs, Bootstrap and Sass. Click to enlarge images.",
+		"images": [
+			{
+				"name":"wwe-copy.jpg"
+			},
+			{
+				"name":"wwe1.jpg"
+			},
+			{
+				"name":"wwe2.jpg"
+			},
+			{
+				"name":"wwe3.jpg"
+			},
+			{
+				"name":"wwe4.jpg"
+			},
+			{
+				"name":"wwe5.jpg"
+			}
+		]
+	},
+	{
+		"id":8,
+		"name": "iHeart Radio Music Awards",
+		"description1":"In collaboration with iHeart Radio, iHeart Radio Music Awards is a MVC web application campaign which allows fans to vote for their favorite artist per category. With fully responsive design, the app can be embedded or iframed in the clients page. The app has cross compatibility on all browsers and mobile devices. Users are directed to the landing page to pick a category and vote, then to a login view where the user is required to provide an email or log in via Facebook, and finishes the user flow on the thank you view where they have the option to share their vote via Facebook or Twitter. This app also uses Twitter Cards as another vote option through Twitter. In conjunction with Telescope Inc. APIs, social media APIs help determine a valid vote from the user. ",
+		"description2":"Frameworks used to build this app include but are not limited to NodeJs, BackboneJs, UnderscoreJs, Bootstrap and Sass. Click to enlarge images.",
+		"images": [
+			{
+				"name":"page1-copy.jpg"
+			},
+			{
+				"name":"page1.jpg"
+			},
+			{
+				"name":"page2.jpg"
+			},
+			{
+				"name":"page3.jpg"
+			}
+		]
+	},
+	{
+		"id":9,
+		"name": "LaLa Loopsy",
+		"description1":"In collaboration with LaLa Loopsy, LaLa Loopsy Sweepstakes is a MVC web application which allows fans to use a widget scratcher in order to win their prize. With fully responsive design, the app can be embedded or iframed in the clients page. The app has cross compatibility on all browsers and mobile devices. Users are directed to the landing page to scratch off the image. Once scratched, a new image appears with the prize where the user clicks out to a different page to claim it. In conjunction with Telescope Inc. APIs, social media APIs help determine a valid result from the user. ",
+		"description2":"Frameworks used to build this app include but are not limited to NodeJs, BackboneJs, UnderscoreJs, Bootstrap and Sass. Click to enlarge images.",
+		"images": [
+			{
+				"name":"ll.jpg"
+			},
+			{
+				"name":"ll1.jpg"
+			},
+			{
+				"name":"ll2.jpg"
+			},
+			{
+				"name":"ll3.jpg"
+			}
+		]
+	},
+	{
+		"id":10,
+		"name": "Premios Tu Mundo",
+		"description1":"In collaboration with Telemundo, Premios Tu Mundo is a MVC web application campaign which allows fans to vote for their favorite artist per category. With fully responsive design, the app can be embedded or iframed in the clients page. The app has cross compatibility on all browsers and mobile devices. Users are directed to the landing page to vote, then to a login view where the user is required to provide an email or log in via Facebook, and finishes the user flow on the thank you view where they have the option to share their vote via Facebook or Twitter. In conjunction with Telescope Inc. APIs, social media APIs help determine a valid vote from the user.",
+		"description2":"Frameworks used to build this app include but are not limited to NodeJs, BackboneJs, UnderscoreJs, Bootstrap and Sass. Click to enlarge images.",
+		"images": [
+			{
+				"name":"ptm-copy.jpg"
+			},
+			{
+				"name":"ptm1.jpg"
+			}
+		]
+	}
+]

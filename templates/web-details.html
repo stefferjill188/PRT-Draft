@@ -1,0 +1,20 @@
+<div class="details">
+	<a href="#/web">Go Back</a>
+	<br>
+	<br>
+	<div class="col-md-6 col-m-12">
+		<img src="img/{{mainImage}}" class="img-full details-img">
+	</div>
+	<div class="col-md-6 col-sm-12">
+		<h3 class="details-title">{{template.name}}</h3>
+		<p>{{template.description1}}</p>
+		<p>{{template.description2}}</p>
+		<div class="row">
+			<div ng-repeat="image in template.images">
+				<div class="col-md-3 col-sm-6 image-icon">
+					<img class="img-full" ng-src="img/{{image.name}}" ng-click="setImage(image)">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
